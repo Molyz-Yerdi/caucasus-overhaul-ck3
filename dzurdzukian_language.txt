@@ -1,0 +1,17 @@
+language_dzurdzukian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_dzurdzukian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_dzurdzukian }
+			multiply = 10
+		}
+	}
+	
+	color = { 0.09 0.45 0.28 }
+}
