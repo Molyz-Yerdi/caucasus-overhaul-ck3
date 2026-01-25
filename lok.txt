@@ -1,0 +1,72 @@
+// префиксы для имен
+  patronym_suffix_male = "dynnpat_suf_ez"
+  patronym_suffix_female = "dynnpat_suf_ez"
+  always_use_patronym = yes  
+  patronym_suffix_male = "dynnpat_suf_s_dze"
+  patronym_suffix_female = "dynnpat_suf_shvili"
+
+
+## Локализация
+
+// перевод списка имен
+common/localization/russian/culture/culture_name_lists_l_russian.yml
+﻿l_russian:
+name_list_tsangpa: "Цангпанские"
+
+
+// названия культур для смешения народов
+common/localization/russian/culture/culture_creation_names_l_russian.yml
+ ﻿l_russian:
+ engelsk_name: "Англы"
+ engelsk_collective_noun: "Англи йск"
+ engelsk_prefix: "Англо"
+ griko_name: "Италиоты"
+ griko_collective_noun: "Италиотск"
+ griko_prefix: "Италиото"
+
+
+// названия культуры
+common/localization/russian/culture/cultures_l_russian.yml
+ ﻿l_russian:
+ ilmenian: "Ильменские словене"
+ ilmenian_prefix: "Ильмено"
+ ilmenian_collective_noun: "Ильменск"
+ severian: "Северяне"
+ severian_prefix: "Северяно"
+ severian_collective_noun: "Северск"
+ volhynian: "Волыняне"
+ volhynian_prefix: "Волынско"
+ volhynian_collective_noun: "Волынск"
+
+
+// перевод имен династий
+common/localization/russian/dynasties/dynasty_names_l_russian.yml
+ ﻿l_russian:
+ dynn_Karkhi: "Кархи"
+ dynn_Karkota: "Каркота"
+ dynn_Karling: "Каролинг"
+
+
+// перевод названия языка
+common/localization/russian/culture/traditions/cultural_languages_l_russian.yml
+﻿l_russian:
+ language_anglic_name: "Английский"
+ language_arabic_name: "Арабский"
+ language_asli_name: "Аслийск"
+
+
+// перевод имен
+common/localization/russian/names/character_names_l_russian.yml
+﻿l_russian:
+ Afonso: "Афонсу"
+ Afrasiyab: "Афрасияб"
+ Afrella: "Аврелла"
+ Afridun: "Афридун"
+ Afrig: "Африг"
+ Afsaneh: "Афсане"
+
+
+
+Последнее:
+ИННОВАЦИИ
+РАСПОЛОЖЕНИЕ
