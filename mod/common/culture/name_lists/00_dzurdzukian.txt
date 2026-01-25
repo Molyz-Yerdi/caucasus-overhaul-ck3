@@ -1,4 +1,4 @@
-name_list_dzurdzukian = {
+﻿name_list_dzurdzukian = {
 
   dynasty_names = {
     "dynn_Akkiy"

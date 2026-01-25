@@ -1,4 +1,4 @@
-dzurdzukian = {
+﻿dzurdzukian = {
   color = { 0.09 0.45 0.27 }
   
   ethos = ethos_stoic
@@ -28,6 +28,9 @@ dzurdzukian = {
 
   ethnicities = {
   33 = mediterranean_byzantine
-  67 = turkic_west
+  10 = caucasian_northern_blond
+  15 = caucasian_northern_ginger
+  35 = caucasian_brown_hair
+  7 = caucasian_dark_hair
   }
 }
