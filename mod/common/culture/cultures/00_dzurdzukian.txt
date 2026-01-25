@@ -1,0 +1,33 @@
+dzurdzukian = {
+  color = { 0.09 0.45 0.27 }
+  
+  ethos = ethos_stoic
+  heritage = heritage_caucasian
+  language = language_dzurdzukian
+  martial_custom = martial_custom_male_only
+  head_determination = head_determination_domain
+  
+  traditions = {
+  tradition_eye_for_an_eye
+  tradition_strong_kinship
+  tradition_caucasian_wolves
+  tradition_stalwart_defenders
+  tradition_mountain_homes
+  }
+  
+  name_list = name_list_dzurdzukian
+
+  coa_gfx = { oghuz_coa_gfx turkic_group_coa_gfx }
+  building_gfx = { byzantine_building_gfx }
+  clothing_gfx = { iranian_clothing_gfx }
+  unit_gfx = { iranian_unit_gfx }
+
+  house_coa_frame = house_frame_21
+  house_coa_mask_offset = { 0.0 0.055 }
+  house_coa_mask_scale = { 1.0 1.0 }
+
+  ethnicities = {
+  33 = mediterranean_byzantine
+  67 = turkic_west
+  }
+}
