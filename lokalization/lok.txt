@@ -47,9 +47,8 @@ common/localization/russian/dynasties/dynasty_names_l_russian.yml
  dynn_Karling: "Каролинг"
 
 
-// перевод названия языка
-common/localization/russian/culture/traditions/cultural_languages_l_russian.yml
-﻿l_russian:
+# перевод названия языка - common/localization/russian/culture/traditions/cultural_languages_l_russian.yml
+l_russian:
  language_anglic_name: "Английский"
  language_arabic_name: "Арабский"
  language_asli_name: "Аслийск"

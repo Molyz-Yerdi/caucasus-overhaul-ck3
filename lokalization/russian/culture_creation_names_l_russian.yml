@@ -1,0 +1,5 @@
+# названия культур для смешения народов - common/localization/russian/culture/culture_creation_names_l_russian.yml
+l_russian:
+ dzurdzukian_name: "Дзурдзуки"
+ dzurdzukian_collective_noun: "Дзурдзукск"
+ dzurdzukian_prefix: "Дзурдзуко"
