@@ -19,18 +19,19 @@
 
   coa_gfx = { oghuz_coa_gfx turkic_group_coa_gfx }
   building_gfx = { byzantine_building_gfx }
-  clothing_gfx = { iranian_clothing_gfx }
+  clothing_gfx = { iranian_clothing_gfx iberian_muslim_clothing_gfx iberian_christian_clothing_gfx }
   unit_gfx = { iranian_unit_gfx }
 
-  house_coa_frame = house_frame_21
-  house_coa_mask_offset = { 0.0 0.055 }
-  house_coa_mask_scale = { 1.0 1.0 }
-
+	house_coa_frame = house_frame_21
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 1.0 1.0 }
+  
   ethnicities = {
-  33 = mediterranean_byzantine
-  10 = caucasian_northern_blond
-  15 = caucasian_northern_ginger
-  35 = caucasian_brown_hair
-  7 = caucasian_dark_hair
+  40 = mediterranean_byzantine
+  15 = turkic_west
+  5 = slavic_ginger
+  5 = slavic_brown_hair
+  5 = slavic_dark_hair
+  30 = caucasian_northern_blond
   }
 }
