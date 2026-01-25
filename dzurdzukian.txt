@@ -21,14 +21,13 @@ coa_gfx = { oghuz_coa_gfx turkic_group_coa_gfx }
 building_gfx = { byzantine_building_gfx }
 clothing_gfx = { iranian_clothing_gfx }
 unit_gfx = { iranian_unit_gfx }
-	house_coa_frame = house_frame_21
-	house_coa_mask_offset = { 0.0 0.055 }
-	house_coa_mask_scale = { 1.0 1.0 }
 
- ethnicities = {
-	ethnicities = {
-		33 = mediterranean_byzantine
-		67 = turkic_west
-	}
- }
+house_coa_frame = house_frame_21
+house_coa_mask_offset = { 0.0 0.055 }
+house_coa_mask_scale = { 1.0 1.0 }
+
+ethnicities = {
+	33 = mediterranean_byzantine
+	67 = turkic_west
+}
 }
