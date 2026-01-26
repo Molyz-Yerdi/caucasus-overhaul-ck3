@@ -27,11 +27,10 @@
 	house_coa_mask_scale = { 1.0 1.0 }
   
   ethnicities = {
-  40 = mediterranean_byzantine
-  15 = turkic_west
-  5 = slavic_ginger
-  5 = slavic_brown_hair
-  5 = slavic_dark_hair
-  30 = caucasian_northern_blond
+  20 = mediterranean_byzantine
+  10 = caucasian_northern_blond
+  20 = caucasian_northern_ginger
+  25 = caucasian_northern_brown_hair
+  25 = caucasian_northern_dark_hair
   }
 }
