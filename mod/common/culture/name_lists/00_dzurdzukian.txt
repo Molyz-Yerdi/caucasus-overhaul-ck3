@@ -525,7 +525,7 @@ male_names = {
 		Dangali Zelimkhan Zeyndi Zama Zoka Zoro Zuma Idarz Inaluk Ingach Istmal Kaza Kanta Kinaz Kindar Lakha Lovda Laka Lada
 		Lors Lapa Mazlak Mika Minaz Movsar Minga Mida Mata Naka Ozdemir Ochcharkha Ortsi Pkhata Pkharmat Pelkho Paka Sira Tursa
 		Telkhig Tirta Khazbolat Khantig Khanga Khuda Khersi Khanaki Khatta Khakha Khasukha Kharvan Khazman Khitana Tsitskhola
-		Shamkhan Shirdat Shirvani Shima Shuta Egi Eda Edal Edalgiri Yaka Yaku Yanu Yanarsi Yaragai Dzhokar Dzheyrakh Zamir
+		Shamkhan Shirdat Shirvani Shima Shuta Egi Eda Edal Edalgiri Yaka Yaku Yanu Yanarsi Yaragai Dzhokar Dzheyrakh Zamir Anzor Lard Eli Barzal Selard
 	}
   
 female_names = {
