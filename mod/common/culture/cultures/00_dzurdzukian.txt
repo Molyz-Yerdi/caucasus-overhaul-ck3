@@ -17,18 +17,18 @@
   
   name_list = name_list_dzurdzukian
 
-  coa_gfx = { oghuz_coa_gfx turkic_group_coa_gfx norse_coa_gfx }
+  coa_gfx = { oghuz_coa_gfx turkic_group_coa_gfx }
   building_gfx = { byzantine_building_gfx }
-  clothing_gfx = { iranian_clothing_gfx iberian_muslim_clothing_gfx iberian_christian_clothing_gfx }
+  clothing_gfx = { iranian_clothing_gfx iberian_christian_clothing_gfx }
   unit_gfx = { iranian_unit_gfx }
 
 	house_coa_frame = house_frame_05
   
   ethnicities = {
-  20 = mediterranean_byzantine
-  10 = caucasian_northern_blond
+  10 = mediterranean_byzantine
+  15 = caucasian_northern_blond
   20 = caucasian_northern_ginger
-  25 = caucasian_northern_brown_hair
+  30 = caucasian_northern_brown_hair
   25 = caucasian_northern_dark_hair
   }
 }
