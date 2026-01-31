@@ -10,7 +10,7 @@
   traditions = {
   tradition_eye_for_an_eye
   tradition_highland_warriors
-  tradition_mountaineers
+  tradition_caucasian_wolves
   tradition_stalwart_defenders
   tradition_mountain_homes
   }
