@@ -26,11 +26,10 @@
 
 	house_coa_frame = house_frame_05
   
-  ethnicities = {
-  10 = mediterranean_byzantine
-  15 = caucasian_northern_blond
-  20 = caucasian_northern_ginger
-  30 = caucasian_northern_brown_hair
-  25 = caucasian_northern_dark_hair
-  }
+	ethnicities = {
+		10 = caucasian_blond
+		10 = caucasian_ginger
+		40 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}	
 }
