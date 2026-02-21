@@ -1,5 +1,7 @@
 ﻿dzurdzukian = {
-  color = { 0.09 0.45 0.27 }
+  color = {
+    0.09 0.45 0.27
+  }
   
   ethos = ethos_stoic
   heritage = heritage_caucasian
@@ -15,21 +17,23 @@
   tradition_mountain_homes
   }
 
-  
-  
   name_list = name_list_dzurdzukian
 
-  coa_gfx = { oghuz_coa_gfx turkic_group_coa_gfx }
-  building_gfx = { byzantine_building_gfx }
-  clothing_gfx = { iranian_clothing_gfx }
-  unit_gfx = { iranian_unit_gfx }
+  coa_gfx = { oghuz_coa_gfx turkic_group_coa_gfx
+  }
+  building_gfx = { byzantine_building_gfx
+  }
+  clothing_gfx = { iranian_clothing_gfx
+  }
+  unit_gfx = { iranian_unit_gfx
+  }
 
 	house_coa_frame = house_frame_05
   
 	ethnicities = {
-		10 = caucasian_blond
-		10 = caucasian_ginger
-		40 = caucasian_brown_hair
-		30 = caucasian_dark_hair
-	}	
+    10 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		60 = caucasian_northern_brown_hair
+		15 = caucasian_northern_dark_hair
+  }
 }
