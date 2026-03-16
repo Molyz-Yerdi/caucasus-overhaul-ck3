@@ -23,16 +23,16 @@
   }
   building_gfx = { byzantine_building_gfx
   }
-  clothing_gfx = { iranian_clothing_gfx iberian_muslim_clothing_gfx dde_abbasid_clothing_gfx mena_clothing_gfx }
+  clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
   unit_gfx = { iranian_unit_gfx
   }
 
 	house_coa_frame = house_frame_05
   
 	ethnicities = {
-    10 = caucasian_northern_blond
+		10 = caucasian_northern_blond
 		15 = caucasian_northern_ginger
-		60 = caucasian_northern_brown_hair
-		15 = caucasian_northern_dark_hair
-  }
+		50 = caucasian_northern_brown_hair
+		25 = caucasian_northern_dark_hair
+	}
 }
