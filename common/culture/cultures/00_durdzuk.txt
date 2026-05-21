@@ -1,23 +1,33 @@
-﻿dzurdzukian = {
-  color = {
-    0.09 0.45 0.27
-  }
-  
+﻿durdzuk = {
+
+  color = { 0.59, 0.0, 0.09 }
+
   ethos = ethos_stoic
+
   heritage = heritage_caucasian
-  language = language_dzurdzukian
+
+  language = language_durdzuk
+
   martial_custom = martial_custom_male_only
+
   head_determination = head_determination_domain
   
   traditions = {
-  tradition_eye_for_an_eye
-  tradition_highland_warriors
-  tradition_caucasian_wolves
-  tradition_stalwart_defenders
-  tradition_mountain_homes
+    tradition_eye_for_an_eye
+    tradition_highland_warriors
+    tradition_caucasian_wolves
+    tradition_stalwart_defenders
+    tradition_mountain_homes
   }
 
-  name_list = name_list_dzurdzukian
+  # Создаем список
+  name_list = name_list_durdzuk
+
+
+
+
+
+
 
   coa_gfx = { oghuz_coa_gfx turkic_group_coa_gfx
   }
