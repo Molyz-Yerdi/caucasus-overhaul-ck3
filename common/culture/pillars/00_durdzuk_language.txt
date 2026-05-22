@@ -1,0 +1,17 @@
+﻿language_durdzuk = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_durdzuk
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_durdzuk }
+			multiply = 10
+		}
+	}
+	
+	color = { 0.59, 0.0, 0.09 }
+}
