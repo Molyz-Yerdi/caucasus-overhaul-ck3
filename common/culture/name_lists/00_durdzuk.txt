@@ -1,29 +1,971 @@
 ﻿name_list_durdzuk = {
     founder_named_dynasties = yes
-	
-	dynasty_names = {
 
-	}
-	
-	cadet_dynasty_names = {
-		# ... (полный список из предыдущего ответа, идентичный dynasty_names)
-	}
+    dynasty_names = {
+        dynn_Aytkhaloy
+        dynn_Akkiy
+        dynn_Akhshoy
+        dynn_Aleroy
+        dynn_Almakhoy
+        dynn_Alkhoy
+        dynn_Amkhoy
+        dynn_AmkhoyByastiy
+        dynn_Anastoy
+        dynn_Andaloy
+        dynn_Andiy
+        dynn_Antsadoy
+        dynn_Ardaloy
+        dynn_Arganoy
+        dynn_Arseloy
+        dynn_Arsoy
+        dynn_Arstkhoy
+        dynn_Artsakhoy
+        dynn_Akhtoy
+        dynn_Acheloy
+        dynn_Bavloy
+        dynn_Baloy
+        dynn_Bamutkhoy
+        dynn_Barchakhoy
+        dynn_Barkhoy
+        dynn_Basoy
+        dynn_Baskhoy
+        dynn_Batsoy
+        dynn_Begacherkhoy
+        dynn_Belgatoy
+        dynn_Belkharoy
+        dynn_Belkhoy
+        dynn_Benastkhoy
+        dynn_Benoy
+        dynn_Betsakhoy
+        dynn_Beshni
+        dynn_Beshkhoy
+        dynn_Bigakhoy
+        dynn_Biytaroy
+        dynn_Bilttoy
+        dynn_Bokoy
+        dynn_Bonoy
+        dynn_Borzoy
+        dynn_Bortiy
+        dynn_Bosoy
+        dynn_Bugaroy
+        dynn_Bulguchkhoy
+        dynn_Buni
+        dynn_Buti
+        dynn_Bushnoy
+        dynn_Byastiy
+        dynn_Varandoy
+        dynn_Varanloy
+        dynn_Vashindaroy
+        dynn_Vielkhaneki
+        dynn_Vielkhoy
+        dynn_Vyappiy
+        dynn_Gazgumkiy
+        dynn_Galay
+        dynn_Galgtloy
+        dynn_Galoy
+        dynn_Gandaloy
+        dynn_Gattoy
+        dynn_Gebertloy
+        dynn_Gezekhoy
+        dynn_Gezloy
+        dynn_Gelashkhoy
+        dynn_Gemeroy
+        dynn_Gendargenoy
+        dynn_Gekhoy
+        dynn_Geshiy
+        dynn_Giloy
+        dynn_Govaldoy
+        dynn_Govroy
+        dynn_Goyroy
+        dynn_Gordaloy
+        dynn_Gorgachkhoy
+        dynn_Goroy
+        dynn_Gulatkhoy
+        dynn_Gumkiy
+        dynn_Gunoy
+        dynn_Gurzhiy
+        dynn_Gukhoy
+        dynn_Guchingkhoy
+        dynn_Gharchoy
+        dynn_Ghoy
+        dynn_Day
+        dynn_Daney
+        dynn_Danukhoy
+        dynn_Dattykhoy
+        dynn_Derakhoy
+        dynn_Dekhestoy
+        dynn_Dzharkhoy
+        dynn_Dzumsoy
+        dynn_Dukarkhoy
+        dynn_Dunarkhoy
+        dynn_Dyshni
+        dynn_Zhay
+        dynn_Zhanguldoy
+        dynn_Zhevoy
+        dynn_Zhelashkhoy
+        dynn_Zherakhoy
+        dynn_Zhogaldoy
+        dynn_Zhugtiy
+        dynn_Zandakoy
+        dynn_Zanastoy
+        dynn_Zogoy
+        dynn_Zumsoy
+        dynn_Zurzakoy
+        dynn_Zuerkhoy
+        dynn_Idakhoy
+        dynn_Ikalchkhoy
+        dynn_Ikaroy
+        dynn_Inzoy
+        dynn_Ikharoy
+        dynn_Ikhirkhoy
+        dynn_Ikhoroy
+        dynn_Italchkhoy
+        dynn_Ishkhoy
+        dynn_Kaloy
+        dynn_Kamalkhoy
+        dynn_Karkhoy
+        dynn_Kaukhoy
+        dynn_Kachekhoy
+        dynn_Kebosoy
+        dynn_Kevaskhoy
+        dynn_Kevoy
+        dynn_Kegankhoy
+        dynn_Key
+        dynn_Keloy
+        dynn_Kenakhoy
+        dynn_Kenkhoy
+        dynn_Keseloy
+        dynn_Kezenoy
+        dynn_Kinkhoy
+        dynn_Kiri
+        dynn_Kogatiy
+        dynn_Koktoy
+        dynn_Koratkhoy
+        dynn_Kordoy
+        dynn_Koshtoy
+        dynn_Kubchiy
+        dynn_Kulinakhoy
+        dynn_Kuloy
+        dynn_Kurchaloy
+        dynn_Kurshaloy
+        dynn_Kushbukhoy
+        dynn_Kushkash
+        dynn_Khartoy
+        dynn_Khokadoy
+        dynn_Kovstoy
+        dynn_Ksgankhoy
+        dynn_Lashkaroy
+        dynn_Malkhiy
+        dynn_Maysty
+        dynn_Makazhoy
+        dynn_Mazarkhoy
+        dynn_Mazukhoy
+        dynn_Marshaloy
+        dynn_Matsarkhoy
+        dynn_Melardoy
+        dynn_Merkhoy
+        dynn_Merzhoy
+        dynn_Merloy
+        dynn_Meshiy
+        dynn_Mekhaloy
+        dynn_Meshteroy
+        dynn_Monakhoy
+        dynn_Muzhakhoy
+        dynn_Muzhgakhoy
+        dynn_Mulkoy
+        dynn_Muskulkhoy
+        dynn_Myarshoy
+        dynn_Nashkhoy
+        dynn_Nizheloy
+        dynn_Nikaroy
+        dynn_Nikotoy
+        dynn_Nikhaloy
+        dynn_Nogiy
+        dynn_Nokkhoy
+        dynn_Nokhchikeloy
+        dynn_Nuykhoy
+        dynn_Obzoy
+        dynn_Ovrshoy
+        dynn_Orsi
+        dynn_Orstkhoy
+        dynn_Oskharoy
+        dynn_Oshniy
+        dynn_Oergkhoy
+        dynn_Pamyatoy
+        dynn_PergNeke
+        dynn_Peshkhoy
+        dynn_Pordaloy
+        dynn_Puloy
+        dynn_Pkharchakhoy
+        dynn_Pkharchoy
+        dynn_Rigakhoy
+        dynn_Ryadukhoy
+        dynn_Sadoy
+        dynn_Sakankhoy
+        dynn_Salbyuroy
+        dynn_Saloy
+        dynn_Sandakhoy
+        dynn_Sanakhoy
+        dynn_Sanoy
+        dynn_Sattoy
+        dynn_Sarkhoy
+        dynn_Sahanakhoy
+        dynn_Sahandoy
+        dynn_Sesankhoy
+        dynn_Serchikhoy
+        dynn_Sikkhoy
+        dynn_Singalkhoy
+        dynn_Sirkhoy
+        dynn_Sogattoy
+        dynn_Sontaroy
+        dynn_Suliy
+        dynn_Syarbaloy
+        dynn_Tazenkaloy
+        dynn_Tarkhoy
+        dynn_Teratkhoy
+        dynn_Tertkhoy
+        dynn_Terloy
+        dynn_Terkhoy
+        dynn_Tulkhoy
+        dynn_Tumsoy
+        dynn_Tundalkhkhoy
+        dynn_Tundukhoy
+        dynn_Turkoy
+        dynn_Tukhoy
+        dynn_Udaloy
+        dynn_Urgyukhkhoy
+        dynn_Urdyukhoy
+        dynn_Ustrada
+        dynn_Fergkhoy
+        dynn_Khakaroy
+        dynn_Khakkoy
+        dynn_Khaykharoy
+        dynn_Khalkeloy
+        dynn_Kharachoy
+        dynn_Kharkaloy
+        dynn_Kharsenoy
+        dynn_Khacharoy
+        dynn_Khashalkhoy
+        dynn_Khevkharay
+        dynn_Khildekharoy
+        dynn_Khimoy
+        dynn_Khindoy
+        dynn_Khindukhoy
+        dynn_Khikhoy
+        dynn_Khoy
+        dynn_Khorsukhoy
+        dynn_Khulandoy
+        dynn_Khukoy
+        dynn_Khurkhoy
+        dynn_Hakmadoy
+        dynn_Halgoy
+        dynn_Hevkhakharoy
+        dynn_Hurkoy
+        dynn_Tsadarkhoy
+        dynn_Tsatsakoy
+        dynn_Tsatsankhoy
+        dynn_Tseltakumoy
+        dynn_Tsentoroy
+        dynn_Tsesi
+        dynn_Tsechoy
+        dynn_Tsikaroy
+        dynn_Tsogankhoy
+        dynn_Chanakhoy
+        dynn_Chantiy
+        dynn_Chartoy
+        dynn_Charkhoy
+        dynn_Cheberloy
+        dynn_Chebyakhkinkhoy
+        dynn_Cheyroy
+        dynn_Cheremakhkhoy
+        dynn_Cherkaziy
+        dynn_Chermoy
+        dynn_Chechenkhoy
+        dynn_Chekhildoy
+        dynn_Chinkhoy
+        dynn_Chontoy
+        dynn_Chubekhkinaroy
+        dynn_Chungaroy
+        dynn_Chunoy
+        dynn_Churinmekhkakhoy
+        dynn_Chkharoy
+        dynn_Sharoy
+        dynn_Shatoy
+        dynn_Shebarloy
+        dynn_Shikaroy
+        dynn_Shimeroy
+        dynn_Shinroy
+        dynn_Shirdi
+        dynn_Shoy
+        dynn_Sholardoy
+        dynn_Shpirdoy
+        dynn_Shuonoy
+        dynn_Shuotoy
+        dynn_Shyuidiy
+        dynn_Egashbatoy
+        dynn_Elistanzhkhoy
+        dynn_Eltparkhoy
+        dynn_Enakhaloy
+        dynn_Enganoy
+        dynn_Ersenoy
+        dynn_Erkhoy
+        dynn_Etloy
+        dynn_Yuegankhoy
+        dynn_Yurdakhoy
+        dynn_Yalkhoy
+        dynn_Yalkhoroy
+        dynn_Iamakhoy
+        dynn_Archakh_naekan
+        dynn_Baltkhoy
+        dynn_Barakhoy
+        dynn_Bek_naekan
+        dynn_Beshtoy
+        dynn_Birza_naekan
+        dynn_Bor_naekan
+        dynn_Bokhtar_naekan
+        dynn_Gaparkhoy
+        dynn_Gelatkhoy
+        dynn_Giyibukhoy
+        dynn_Gligvy
+        dynn_Guloy
+        dynn_Gharbakh_naekan
+        dynn_Dakhkilga_naekan
+        dynn_Dzheyrakhoy
+        dynn_Doshkhakloy
+        dynn_Duday_naekan
+        dynn_Evloy
+        dynn_Zozoy_naekan
+        dynn_Yovloy
+        dynn_Kisti
+        dynn_Korigi
+        dynn_Kortoy
+        dynn_Khokhkhoy
+        dynn_Kuraysh
+        dynn_Kyatiy
+        dynn_Leymoy
+        dynn_Lolakhoy
+        dynn_Lotara_naekan
+        dynn_Loshkhoy
+        dynn_Lyan_naekan
+        dynn_Metskhaloy
+        dynn_Moashkhoy
+        dynn_Morchkhoy
+        dynn_Mukhloy
+        dynn_Nakastkhoy
+        dynn_Obinkhoy
+        dynn_Ovlurga_naekan
+        dynn_Ozdoy
+        dynn_Olgettkhoy
+        dynn_Oska_naekan
+        dynn_Ouvsha_naekan
+        dynn_Okhr_naekan
+        dynn_Poalonkoy
+        dynn_Polonkhoy
+        dynn_Puvvoy
+        dynn_Surkhoy_vyar
+        dynn_Tangimkhoy
+        dynn_Tong_naekan
+        dynn_Torshkhoy
+        dynn_Tumkhoy
+        dynn_Ugurch_naekan
+        dynn_Uazhkh_naekan
+        dynn_Khabra_naekan
+        dynn_Khamkhoy
+        dynn_Khamatkhan_naekan
+        dynn_Khashagulga_naekan
+        dynn_Khulakhoy
+        dynn_Tseykhan_naekan
+        dynn_Tsikmabukhoy
+        dynn_Tsitsa_naekan
+        dynn_Tsizdoy
+        dynn_Tshoroy
+        dynn_Chekkiy_vyar
+        dynn_Chemkhilg_naekan
+        dynn_Chur_naekan
+        dynn_Shavkhaloy
+        dynn_Egakhoy
+        dynn_Erzi_naekan
+        dynn_Erselga_vyar
+        dynn_Eshka_Bokhtaroy
+    }
 
-	male_names = {
+    cadet_dynasty_names = {
+        dynn_Aytkhaloy
+        dynn_Akkiy
+        dynn_Akhshoy
+        dynn_Aleroy
+        dynn_Almakhoy
+        dynn_Alkhoy
+        dynn_Amkhoy
+        dynn_AmkhoyByastiy
+        dynn_Anastoy
+        dynn_Andaloy
+        dynn_Andiy
+        dynn_Antsadoy
+        dynn_Ardaloy
+        dynn_Arganoy
+        dynn_Arseloy
+        dynn_Arsoy
+        dynn_Arstkhoy
+        dynn_Artsakhoy
+        dynn_Akhtoy
+        dynn_Acheloy
+        dynn_Bavloy
+        dynn_Baloy
+        dynn_Bamutkhoy
+        dynn_Barchakhoy
+        dynn_Barkhoy
+        dynn_Basoy
+        dynn_Baskhoy
+        dynn_Batsoy
+        dynn_Begacherkhoy
+        dynn_Belgatoy
+        dynn_Belkharoy
+        dynn_Belkhoy
+        dynn_Benastkhoy
+        dynn_Benoy
+        dynn_Betsakhoy
+        dynn_Beshni
+        dynn_Beshkhoy
+        dynn_Bigakhoy
+        dynn_Biytaroy
+        dynn_Bilttoy
+        dynn_Bokoy
+        dynn_Bonoy
+        dynn_Borzoy
+        dynn_Bortiy
+        dynn_Bosoy
+        dynn_Bugaroy
+        dynn_Bulguchkhoy
+        dynn_Buni
+        dynn_Buti
+        dynn_Bushnoy
+        dynn_Byastiy
+        dynn_Varandoy
+        dynn_Varanloy
+        dynn_Vashindaroy
+        dynn_Vielkhaneki
+        dynn_Vielkhoy
+        dynn_Vyappiy
+        dynn_Gazgumkiy
+        dynn_Galay
+        dynn_Galgtloy
+        dynn_Galoy
+        dynn_Gandaloy
+        dynn_Gattoy
+        dynn_Gebertloy
+        dynn_Gezekhoy
+        dynn_Gezloy
+        dynn_Gelashkhoy
+        dynn_Gemeroy
+        dynn_Gendargenoy
+        dynn_Gekhoy
+        dynn_Geshiy
+        dynn_Giloy
+        dynn_Govaldoy
+        dynn_Govroy
+        dynn_Goyroy
+        dynn_Gordaloy
+        dynn_Gorgachkhoy
+        dynn_Goroy
+        dynn_Gulatkhoy
+        dynn_Gumkiy
+        dynn_Gunoy
+        dynn_Gurzhiy
+        dynn_Gukhoy
+        dynn_Guchingkhoy
+        dynn_Gharchoy
+        dynn_Ghoy
+        dynn_Day
+        dynn_Daney
+        dynn_Danukhoy
+        dynn_Dattykhoy
+        dynn_Derakhoy
+        dynn_Dekhestoy
+        dynn_Dzharkhoy
+        dynn_Dzumsoy
+        dynn_Dukarkhoy
+        dynn_Dunarkhoy
+        dynn_Dyshni
+        dynn_Zhay
+        dynn_Zhanguldoy
+        dynn_Zhevoy
+        dynn_Zhelashkhoy
+        dynn_Zherakhoy
+        dynn_Zhogaldoy
+        dynn_Zhugtiy
+        dynn_Zandakoy
+        dynn_Zanastoy
+        dynn_Zogoy
+        dynn_Zumsoy
+        dynn_Zurzakoy
+        dynn_Zuerkhoy
+        dynn_Idakhoy
+        dynn_Ikalchkhoy
+        dynn_Ikaroy
+        dynn_Inzoy
+        dynn_Ikharoy
+        dynn_Ikhirkhoy
+        dynn_Ikhoroy
+        dynn_Italchkhoy
+        dynn_Ishkhoy
+        dynn_Kaloy
+        dynn_Kamalkhoy
+        dynn_Karkhoy
+        dynn_Kaukhoy
+        dynn_Kachekhoy
+        dynn_Kebosoy
+        dynn_Kevaskhoy
+        dynn_Kevoy
+        dynn_Kegankhoy
+        dynn_Key
+        dynn_Keloy
+        dynn_Kenakhoy
+        dynn_Kenkhoy
+        dynn_Keseloy
+        dynn_Kezenoy
+        dynn_Kinkhoy
+        dynn_Kiri
+        dynn_Kogatiy
+        dynn_Koktoy
+        dynn_Koratkhoy
+        dynn_Kordoy
+        dynn_Koshtoy
+        dynn_Kubchiy
+        dynn_Kulinakhoy
+        dynn_Kuloy
+        dynn_Kurchaloy
+        dynn_Kurshaloy
+        dynn_Kushbukhoy
+        dynn_Kushkash
+        dynn_Khartoy
+        dynn_Khokadoy
+        dynn_Kovstoy
+        dynn_Ksgankhoy
+        dynn_Lashkaroy
+        dynn_Malkhiy
+        dynn_Maysty
+        dynn_Makazhoy
+        dynn_Mazarkhoy
+        dynn_Mazukhoy
+        dynn_Marshaloy
+        dynn_Matsarkhoy
+        dynn_Melardoy
+        dynn_Merkhoy
+        dynn_Merzhoy
+        dynn_Merloy
+        dynn_Meshiy
+        dynn_Mekhaloy
+        dynn_Meshteroy
+        dynn_Monakhoy
+        dynn_Muzhakhoy
+        dynn_Muzhgakhoy
+        dynn_Mulkoy
+        dynn_Muskulkhoy
+        dynn_Myarshoy
+        dynn_Nashkhoy
+        dynn_Nizheloy
+        dynn_Nikaroy
+        dynn_Nikotoy
+        dynn_Nikhaloy
+        dynn_Nogiy
+        dynn_Nokkhoy
+        dynn_Nokhchikeloy
+        dynn_Nuykhoy
+        dynn_Obzoy
+        dynn_Ovrshoy
+        dynn_Orsi
+        dynn_Orstkhoy
+        dynn_Oskharoy
+        dynn_Oshniy
+        dynn_Oergkhoy
+        dynn_Pamyatoy
+        dynn_PergNeke
+        dynn_Peshkhoy
+        dynn_Pordaloy
+        dynn_Puloy
+        dynn_Pkharchakhoy
+        dynn_Pkharchoy
+        dynn_Rigakhoy
+        dynn_Ryadukhoy
+        dynn_Sadoy
+        dynn_Sakankhoy
+        dynn_Salbyuroy
+        dynn_Saloy
+        dynn_Sandakhoy
+        dynn_Sanakhoy
+        dynn_Sanoy
+        dynn_Sattoy
+        dynn_Sarkhoy
+        dynn_Sahanakhoy
+        dynn_Sahandoy
+        dynn_Sesankhoy
+        dynn_Serchikhoy
+        dynn_Sikkhoy
+        dynn_Singalkhoy
+        dynn_Sirkhoy
+        dynn_Sogattoy
+        dynn_Sontaroy
+        dynn_Suliy
+        dynn_Syarbaloy
+        dynn_Tazenkaloy
+        dynn_Tarkhoy
+        dynn_Teratkhoy
+        dynn_Tertkhoy
+        dynn_Terloy
+        dynn_Terkhoy
+        dynn_Tulkhoy
+        dynn_Tumsoy
+        dynn_Tundalkhkhoy
+        dynn_Tundukhoy
+        dynn_Turkoy
+        dynn_Tukhoy
+        dynn_Udaloy
+        dynn_Urgyukhkhoy
+        dynn_Urdyukhoy
+        dynn_Ustrada
+        dynn_Fergkhoy
+        dynn_Khakaroy
+        dynn_Khakkoy
+        dynn_Khaykharoy
+        dynn_Khalkeloy
+        dynn_Kharachoy
+        dynn_Kharkaloy
+        dynn_Kharsenoy
+        dynn_Khacharoy
+        dynn_Khashalkhoy
+        dynn_Khevkharay
+        dynn_Khildekharoy
+        dynn_Khimoy
+        dynn_Khindoy
+        dynn_Khindukhoy
+        dynn_Khikhoy
+        dynn_Khoy
+        dynn_Khorsukhoy
+        dynn_Khulandoy
+        dynn_Khukoy
+        dynn_Khurkhoy
+        dynn_Hakmadoy
+        dynn_Halgoy
+        dynn_Hevkhakharoy
+        dynn_Hurkoy
+        dynn_Tsadarkhoy
+        dynn_Tsatsakoy
+        dynn_Tsatsankhoy
+        dynn_Tseltakumoy
+        dynn_Tsentoroy
+        dynn_Tsesi
+        dynn_Tsechoy
+        dynn_Tsikaroy
+        dynn_Tsogankhoy
+        dynn_Chanakhoy
+        dynn_Chantiy
+        dynn_Chartoy
+        dynn_Charkhoy
+        dynn_Cheberloy
+        dynn_Chebyakhkinkhoy
+        dynn_Cheyroy
+        dynn_Cheremakhkhoy
+        dynn_Cherkaziy
+        dynn_Chermoy
+        dynn_Chechenkhoy
+        dynn_Chekhildoy
+        dynn_Chinkhoy
+        dynn_Chontoy
+        dynn_Chubekhkinaroy
+        dynn_Chungaroy
+        dynn_Chunoy
+        dynn_Churinmekhkakhoy
+        dynn_Chkharoy
+        dynn_Sharoy
+        dynn_Shatoy
+        dynn_Shebarloy
+        dynn_Shikaroy
+        dynn_Shimeroy
+        dynn_Shinroy
+        dynn_Shirdi
+        dynn_Shoy
+        dynn_Sholardoy
+        dynn_Shpirdoy
+        dynn_Shuonoy
+        dynn_Shuotoy
+        dynn_Shyuidiy
+        dynn_Egashbatoy
+        dynn_Elistanzhkhoy
+        dynn_Eltparkhoy
+        dynn_Enakhaloy
+        dynn_Enganoy
+        dynn_Ersenoy
+        dynn_Erkhoy
+        dynn_Etloy
+        dynn_Yuegankhoy
+        dynn_Yurdakhoy
+        dynn_Yalkhoy
+        dynn_Yalkhoroy
+        dynn_Iamakhoy
+        dynn_Archakh_naekan
+        dynn_Baltkhoy
+        dynn_Barakhoy
+        dynn_Bek_naekan
+        dynn_Beshtoy
+        dynn_Birza_naekan
+        dynn_Bor_naekan
+        dynn_Bokhtar_naekan
+        dynn_Gaparkhoy
+        dynn_Gelatkhoy
+        dynn_Giyibukhoy
+        dynn_Gligvy
+        dynn_Guloy
+        dynn_Gharbakh_naekan
+        dynn_Dakhkilga_naekan
+        dynn_Dzheyrakhoy
+        dynn_Doshkhakloy
+        dynn_Duday_naekan
+        dynn_Evloy
+        dynn_Zozoy_naekan
+        dynn_Yovloy
+        dynn_Kisti
+        dynn_Korigi
+        dynn_Kortoy
+        dynn_Khokhkhoy
+        dynn_Kuraysh
+        dynn_Kyatiy
+        dynn_Leymoy
+        dynn_Lolakhoy
+        dynn_Lotara_naekan
+        dynn_Loshkhoy
+        dynn_Lyan_naekan
+        dynn_Metskhaloy
+        dynn_Moashkhoy
+        dynn_Morchkhoy
+        dynn_Mukhloy
+        dynn_Nakastkhoy
+        dynn_Obinkhoy
+        dynn_Ovlurga_naekan
+        dynn_Ozdoy
+        dynn_Olgettkhoy
+        dynn_Oska_naekan
+        dynn_Ouvsha_naekan
+        dynn_Okhr_naekan
+        dynn_Poalonkoy
+        dynn_Polonkhoy
+        dynn_Puvvoy
+        dynn_Surkhoy_vyar
+        dynn_Tangimkhoy
+        dynn_Tong_naekan
+        dynn_Torshkhoy
+        dynn_Tumkhoy
+        dynn_Ugurch_naekan
+        dynn_Uazhkh_naekan
+        dynn_Khabra_naekan
+        dynn_Khamkhoy
+        dynn_Khamatkhan_naekan
+        dynn_Khashagulga_naekan
+        dynn_Khulakhoy
+        dynn_Tseykhan_naekan
+        dynn_Tsikmabukhoy
+        dynn_Tsitsa_naekan
+        dynn_Tsizdoy
+        dynn_Tshoroy
+        dynn_Chekkiy_vyar
+        dynn_Chemkhilg_naekan
+        dynn_Chur_naekan
+        dynn_Shavkhaloy
+        dynn_Egakhoy
+        dynn_Erzi_naekan
+        dynn_Erselga_vyar
+        dynn_Eshka_Bokhtaroy
+    }
 
-	}
+    male_names = {
+        Aba Baysangur Astemir Kanta Inzar Argun
+        Abi Adies Adod Azarsa Aka Aki
+        Ala Albast Aldam Alkha Alkho Alkhazur
+        Am Ammar Aras Arsa Arse Art
+        Artakh Arch Archo Arshtkho Atta Akhk
+        Akhlo Acha Aekkh Aekh Aerzi Aerzu
+        Asha Andi Baysar Bakar Bako Bak
+        Bachi Bala Balkh Bara Barza Barkh
+        Barta Bartkho Basa Bashil Bat Bata
+        Bato Batta Batura Bakha Bakhk Batsa
+        Batso Baeharcha Baechcharka Bega Beniy Beno
+        Berd Berg Berz Betar Bekho Bibi
+        Biz Bila Bilakh Billabi Bimarz Bira
+        Birka Birts Bisa Biso Bitar Boa
+        Bozurka Boka Bori Borz Borta Borkh
+        Boti Bokhtar Boshtu Boshtug Boetaka Buvadi
+        Bugha Bula Bulcha Buncha Buolati Bursi
+        Burta Buelcha Bueg Buehig Buelta Bota
+        Botu Vaka Varka Vakha Vakho Vasha
+        Vedar Vedo Virkh Visa Vito Vokkul
+        Vokkha Gal Gala Galoy Gama Ganda
+        Gara Garak Gaki Gata Gakha Gela
+        Gelo Gel Gelkhoy Geri Gesh Gesha
+        Gi Gila Gira Gikha Gikhta Goy
+        Goytemir Gur Gurzhi Guna Guni Gushmazka
+        Ghala Ghani Gharbakh Gharmakha Ghazha Ghashbuolat
+        Ghaenta Ghea Ghigha Ghobanak Ghoydagha Ghoy
+        Ghoytukh Ghubash Ghubshaka Ghurta Ghushlakh Dada
+        Dadi Dakha Daka Danga Dangali Dantu
+        Dara Darsa Darts Dato Datta Datuv
+        Dakhkilg Dashuv Degi Demala Deni Dekh
+        Dika Dila Dili Dovt Doda Dokku
+        Dokkha Doncha Dosh Doshkhakl Duda Duka
+        Dukni Duk Dunah Duota Dukha Duerda
+        Duercha Dzhabi Dzhambur Dzhantu Dzhaempak Dzhommalkha
+        Dzhokhar Dzheyrakh Zhaddal Zhala Zhan Zhandar
+        Zhebar Zhov Zhak Zabu Zal Zama
+        Zarkh Zarmakh Zaur Zok Zoka Zoro
+        Zoroy Zuma Zur Zula Idarz Idi
+        Ilbaz Inaluk Ingach Irzu Irkha Istmal
+        Itar Yovka Kaza Kaka Kalo Kaloy
+        Karts Kasta Katkho Kahi Katsa Kakhar
+        Kvast Key Kel Keri Kekho Kinaz
+        Kindar Koga Koka Kok Koloy Kori
+        Kott Kokhk Kudar Kukan Kura Kuri
+        Kursh Kutusha Kukh Kuenchal Khakh Khalo
+        Khokh Khor Kakharm Kechalg Kokhtsul Kuka
+        Kakhk Konakh Koast Kocha Kukash Kyatay
+        Kyat Labaz Lada Laka Lakash Lam
+        Lamberd Lapa Lari Lars Lakha Lecha
+        Liy Lovda Lola Lom Lora Lotar
+        Loda Losh Lu Lui Lyan Lors
+        Magas Malkhas Maza Mayra Makkhal Malkh
+        Manka Marza Mast Mata Mati Mato
+        Makhk Matsi Mankar Medar Mekhk Metskhal
+        Mida Mika Mikela Minaz Minga Mita
+        Mitarsh Moash Morch Muzha Muk Mukkha
+        Mukali Muso Mut Mukh Mushali Nazha
+        Naka Nakast Nal Namo Nana Nart
+        Nasa Nasukh Nasha Nashran Nashkho Nesar
+        Nika Niyaz Noda Nokho Obin Ova
+        Ovsh Ovlurg Ovlur Oda Ozdo Okosh
+        Olkhazar Olget Orts Ortsi Orsh Oska
+        Otar Ouvsha Okhr Ochcharkha Oezda Oekkh
+        Oerzam Patar Patarz Pelhuo Poalo Polon
+        Puv Pha Phagal Pharmat Phata Pkharkat
+        Paka Say Saysar Saka Sala Sal
+        Sanda Sar Sata Sato Sakha Sakho
+        Sela Seli Selo Sen Serlo Seska
+        Siga Siy Siynabaerg Sira Soa Sov
+        Soka Sona Sonta Sor Sosa Sur
+        Surkho Sutar Taza Tangim Tara Targim
+        Taram Tarkh Tarko Tarkhoy Tatkha Takho
+        Tash Tasho Tev Temark Tesh Timorka
+        Tirkh Tov Tovsa Toka Tola Tolam
+        Tong Topa Torsh Tul Tum Turko
+        Turpal Tursa Tush Tagha Telkhig Tigha
+        Tirta Tita Tolga Tubbaz Tukul Tura
+        Turtaz Tuta Uazhkh Ugu Ugurch Ulbi
+        Ura Urdu Uskho Utar Utkha Ukha
+        Ush Faeppi Khabra Khaza Khazman Khaki
+        Khako Khal Kham Khanaki Khani Kharza
+        Khas Khasa Khata Khakha Khasha Khashagulg
+        Khevkha Khera Khalakh Khersi Khekho Khi
+        Khila Khir Khoza Khozalg Khula Khueda
+        Hatata Hakha Khasukha Khitana Tsa Tsay
+        Tsaka Tsaloy Tsara Tsatsa Tsey Tsecho
+        Tsiza Tsikma Tsitsig Tsitskhola Tsitsa Tsoval
+        Tsok Tsolo Tsona Tsoroy Tsutsa Tshogal
+        Tshora Tshor Ca Cay Caka Ce
+        Cincalg Cica Coro Cunta Cucash Cuaz
+        Cha Chaborz Chakh Chal Chala Chan
+        Chebar Chekkiy Chemkhilg Cheri Cho Choa
+        Chovka Chora Chorka Chokh Chu Chuoka
+        Chuokka Chhoch Chaentamir Cheborz Chima Chicha
+        Chogha Chozh Cholla Chontig Chuonta Chur
+        Shavkhal Shadi Shal Shara Sharo Shel
+        Shira Shirdat Shoa Shok Shot Shovkh
+        Shu Shuta Shuo Ega Egi Eda
+        Edal Edash Ezhgira Eka El Elbaz
+        Elbi Elbuz Elzharka Elmark Elsi Elkh
+        Elkha Elkhast Eni Engan Erzi Erse
+        Esh Eshka Echig Yuna Yukh Yusha
+        Yaka Yaku Yalkho Yanda Yanarsi Yanu
+        Yaraghiy Iadsakh Iazh Ialash Iachi Iezha
+        Ionta Iuzha Akhmar Elban
+    }
 
-	female_names = {
-  
-  }
-	
-	pat_grf_name_chance = 15
-	mat_grf_name_chance = 5
-	pat_grm_name_chance = 10
-	mat_grm_name_chance = 15
-	
-	patronym_suffix_male = "dynnpat_suf_qant"
-	patronym_suffix_female = "dynnpat_suf_yot"
-	
-	always_use_patronym = yes 
+    female_names = {
+        Aba Ada Agozi Azhu Aza Azi
+        Azman Aybat Aybi Aybika Aydat Ayza
+        Ayzan Ayzani Aymani Ayna Ayshat Ali
+        Alpatu Albika Ama Aminat Anak Anet
+        Apinat Arvan Arovkha Aroghaz Aruzha Aset
+        Asinat Asmart Atyokh Akhchi Achi Aezni
+        Aerza Aerzig Akhcha Albi Alpi Amshi
+        Arzhi Baysari Baka Bakarbika Balasha Balkan
+        Balshekar Balshi Bana Banati Baret Basa
+        Batazi Bayant Beynaz Bekist Belizha Besirat
+        Betisa Bika Bikatu Bilkis Bilkiz Bisirt
+        Bita Bitsi Bosh Bucha Byasta Vakha
+        Veta Visa Galla Gichbika Gichchaghaz Gulla
+        Gumsi Ghala Ghalat Goshmokha Goshorkhan Goshta
+        Gubani Gubati Dagman Daka Dakha Dali
+        Dari Data Dato Datta Dakhcha Degi
+        Deti Deshi Deshimat Dzheyran Dibikhan Dika
+        Dikani Dik Dovkhan Dog Dogmara Dokh
+        Dosh Dokkha Dugurkhan Dukha Dushta Eza
+        Ezi Ezidat Ezimat Ezira Ezikhat Ezna
+        Esita Zhanapu Zhanati Zhanetta Zhanna Zhansari
+        Zhansika Zharpshan Zhemilat Zhovzan Zhovsari Zhovkhar
+        Zabant Zabbari Zabra Zabrat Zabu Zaza
+        Zazubika Zaybika Zaidat Zaydat Zaynap Zama
+        Zamana Zamza Zamira Zanet Zara Zarbat
+        Zargan Zata Zakha Zeza Zezag Zezig
+        Zelimat Zelikha Zerpat Zekhidat Ziza Zizi
+        Zina Ziyadat Zovzhan Zolduskhan Zoru Zulay
+        Zulpa Zulpat Zura Zukhra Izaykhat Izakhat
+        Irs Irsa Yovkho Kabikha Kayla Kali
+        Kaka Kari Kamsari Kela Kelimat Kemisa
+        Kemsa Kerla Kesira Kovkha Koka Kometa
+        Kuda Kudas Kuzhbakhirg Kuku Kulla Kulsum
+        Kula Kurbika Kurzhan Kurpatu Kurset Kusa
+        Kusha Khamaryat Khoarza Khokha Khokhu Kordiz
+        Kamsat Layla Layha Lala Lali Larisa
+        Larcha Laekhset Liza Limana Lipa Lish
+        Luza Luiza Lusa Madina Madinat Mazha
+        Maymonat Maysa Mayset Maysta Makka Malika
+        Malka Malkh Malkhazni MalkhAezni Malkhseda Maret
+        Marzhan Marzet Markha Maryam Masar Matusa
+        Melizha Mekhka Mekhkani Miesta Mila Muminat
+        Nazhabat Nana Nani Nanash Nanashi Nebisat
+        Nebist Noda Nura Nurbika Nurzhan Nurpat
+        Nurseda Nurset Obin Olga Olkhazar Oezda
+        Padam Palada Palla Pata Perizat Petimat
+        Polla Pushtok Rabu Razet Raziyat Raisa
+        Ramnat Rakhimat Rebiat Rovzan Roza Royzat
+        Rukiyat Ruman Sa Sazhadat Samart Sanet
+        Saniya Saniyat Sanu Sanyat Sapert Saret
+        Sarsar Sata Satamish Sati Satsita Satsiyta
+        Segirat Seda Sedi Seeda Sekinat Sela
+        Selam Selima Selimat Selisa Selisat Selita
+        Selikhat Selmat Seniya Seniyat Seri Serizhat
+        Serlo Siyla Silzhan Sovgat Sovdat Sovpatu
+        Sultanat Syalbika Tabarak Tazret Taisa Taymaskha
+        Tamara Tamasha Tameghaz Tamila Tamusa Tani
+        Taus Tesha Tovsari Toiyta Toita Toma
+        Tourt Tumisha Tuta Tusholi Tutu Umisat
+        Umiya Usha Khabira Khava Khadizhat Khazan
+        Khazani Khazbika Khazimat Khamasat Khasipat Khaza
+        Khazni Kheda Khelipat Khelisat Khepa Khiyzhan
+        Khovkha Khovkhi Khulimat Khutmat Khaevla Khuttut
+        Tsaka Tsatsa Tsaesh Tsiza Tsitsa Ca
+        Cheghag Cheghardig Chonchari Chuonti Chovka Chovrig
+        Shamset Shumisat Shira Shoa Shovda Egish
+        Eda Edal Elisa Elita Elza Elbi
+        Elpi Enisa Erzi Erzig Yazara Yazura
+        Yaliy Iaba Iata Iarza Iaz Dzhokhara
+        Zalina
+    }
+
+    pat_grf_name_chance = 15
+    mat_grf_name_chance = 5
+    pat_grm_name_chance = 10
+    mat_grm_name_chance = 15
+
+    patronym_suffix_male = "dynnpat_suf_qant"
+    patronym_suffix_female = "dynnpat_suf_yot"
+
+    always_use_patronym = yes
 }
